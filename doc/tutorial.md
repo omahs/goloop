@@ -3,7 +3,7 @@
 ## Introduction
 
 This document describes how to setup a blockchain network with the provided tools.
-We provides two types of servers, `gochain` and `goloop`.
+We provide two types of servers, `gochain` and `goloop`.
 
 | Name                | gochain | goloop |
 |:--------------------|:-------:|:------:|
